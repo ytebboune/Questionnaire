@@ -1,0 +1,17 @@
+#INGORE
+
+
+package-lock.json
+.idea/
+*.env
+include/dbconnection.php
+
+
+
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn Integrity file
+.yarn-integrity
+
